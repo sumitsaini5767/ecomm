@@ -1,5 +1,4 @@
 package com.ecomm
-import android.os.Bundle;
 
 import android.app.Application
 import com.facebook.react.PackageList
