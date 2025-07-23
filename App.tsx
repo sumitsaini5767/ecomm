@@ -16,8 +16,7 @@ function App() {
   return (
     <View style={styles.container}>
       <StatusBar barStyle={isDarkMode ? 'light-content' : 'dark-content'} />
-      {/* <Routes /> */}
-      <Text className='text-red-500 text-2xl font-bold mb-4'>Hello</Text>
+      <Routes />
     </View>
   );
 }
